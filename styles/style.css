@@ -99,10 +99,6 @@ fieldset {
   outline: 1px solid #fff;
 }
 
-/* .search-form__label:hover {
-  text-decoration: underline;
-} */
-
 .search-form__checkbox-list > .search-form__label:hover {
   text-decoration: underline;
 }
